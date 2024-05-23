@@ -12,7 +12,11 @@ Secondly, I installed an ubuntu server virtual machine in Vultr cloud
 
 Thirdly, I installed Wazuh on the ubuntu server virtual machine
 
+![Screenshot_22-5-2024_224611_149 248 53 165](https://github.com/SinaGhanadian/SIEM-Lab/assets/15080146/0f87fb91-18a8-479e-a596-128e46b5cf1a)
 
+![Screenshot_22-5-2024_224639_149 248 53 165](https://github.com/SinaGhanadian/SIEM-Lab/assets/15080146/e62e0710-56ec-42ee-a0d3-c62f3b80ab72)
+
+![Screenshot_22-5-2024_224922_149 248 53 165](https://github.com/SinaGhanadian/SIEM-Lab/assets/15080146/e9e42e4d-d87f-43b8-a9ed-3c2a761da1b4)
 
 Finally,we configure the Windows machine to the Wazuh SIEM
 
